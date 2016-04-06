@@ -8,7 +8,7 @@ A brief project that are only cppunit tests configured with CMake (on linux mach
 ##Build:
 > $ cd cppunit-cmake-101
 
-> $ cmake.
+> $ cmake .
 
 > $ make
 
